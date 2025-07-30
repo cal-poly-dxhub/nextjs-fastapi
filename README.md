@@ -23,7 +23,7 @@ This guide will help you set up and run both the frontend (Next.js) and backend 
    npm install
    ```
 
-2. **Run the development server**
+2. **Run the development server locally**
 
    ```sh
    npm run dev
@@ -63,7 +63,7 @@ For more, visit the [shadcn/ui documentation](https://ui.shadcn.com/docs).
    pip install -r requirements.txt
    ```
 
-3. **Run the FastAPI server with hot reload**
+3. **Run the FastAPI server locally with hot reload**
 
    ```sh
    uvicorn main:app --reload --port 8000
